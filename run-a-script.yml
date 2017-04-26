@@ -6,7 +6,7 @@ image_resource:
   source: {repository: busybox}
 
 inputs:
-- name: the-script
+- name: run-a-script-resource
 
 run:
-  path: the-script/the-script.sh
+  path: run-a-script-resource/the-script.sh
